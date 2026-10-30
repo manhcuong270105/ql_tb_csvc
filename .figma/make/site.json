@@ -1,0 +1,10 @@
+{
+  "description": "Hệ thống giúp trường đại học quản lý thiết bị, phòng học và cơ sở vật chất, đồng thời kết nối quy trình mua sắm, bàn giao, bảo trì và phê duyệt.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
